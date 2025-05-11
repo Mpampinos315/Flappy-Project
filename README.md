@@ -1,1 +1,1 @@
-This is a university project of flappy bird in python but we have added our own ideas into the pre-existing game
+A flappy bird project with our own ideas implemented in the main game 
